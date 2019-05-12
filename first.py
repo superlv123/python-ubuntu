@@ -10,3 +10,4 @@ def qytprint(x):
     print(x)
 if __name__ == '__main__':
     qytprint('superlv')
+    qytprint('hello world!')

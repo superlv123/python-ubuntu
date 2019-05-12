@@ -11,3 +11,4 @@ def qytprint(x):
 if __name__ == '__main__':
     qytprint('superlv')
     qytprint('hello world!')
+    print('github commit!')
